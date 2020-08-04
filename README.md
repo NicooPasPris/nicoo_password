@@ -11,4 +11,5 @@ FiveM Server Password
 ## Contributor
 
 The script is a repeat of the [FAXES](https://github.com/FAXES) script.
+
 [Original script](https://github.com/FAXES/ServerPassword)
